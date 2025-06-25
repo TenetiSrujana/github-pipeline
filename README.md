@@ -39,14 +39,9 @@ This project helps you learn:
 - GitHub Actions workflow creation  
 - Setting up Node.js in CI/CD pipelines  
 - Automating simple tasks with YAML configs
-
+- 
 ---
 
-##  Author
-
-[@TenetiSrujana](https://github.com/TenetiSrujana)
-
----
 ## Workflow Run Screenshot
 
 Here's a screenshot of the GitHub Actions pipeline running smoothly:
